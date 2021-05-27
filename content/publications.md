@@ -40,7 +40,8 @@ blackfriday:
   Ryousei Takano, Jason Haga, George Sugihara, Gerald M. Pao, "kEDM: A
   Performance-portable Implementation of Empirical Dynamic Modeling using
   Kokkos", _Practice & Experience in Advanced Research Computing (PEARC 2021)_,
-  Jul. 2021. [10.1145/3437359.3465571](https://doi.org/10.1145/3437359.3465571)
+  Jul. 2021. [arXiv:2105.12301](https://arxiv.org/abs/2105.12301)
+  [10.1145/3437359.3465571](https://doi.org/10.1145/3437359.3465571)
   (accepted)
 - Guoqing Li, __Keichi Takahashi__, Kohei Ichikawa, Hajimu Iida, Pree
   Thiengburanathum, Passakorn Phannachitta, “Comparative Performance Study
